@@ -21,6 +21,7 @@ def left():
    turtle.stamp()
 def restart():
    turtle.reset()
+   turtle.stamp()
 
 turtle.onkey(up,'w')
 turtle.onkey(down,'s')
