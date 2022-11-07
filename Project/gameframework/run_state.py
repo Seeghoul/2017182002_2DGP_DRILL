@@ -8,8 +8,7 @@ class BackGround:
 
     def draw(self):
         run = 0
-        for i in run:
-            self.image.clip_draw(0, 600, 40, 40, run+1, 0)
+
 
 class Mario:
     def __init__(self):

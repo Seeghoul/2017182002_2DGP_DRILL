@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a86e83-c19e-4a67-a258-c356f0821e51" name="Changes" comment="" />
+    <list default="true" id="21a86e83-c19e-4a67-a258-c356f0821e51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/gameframework/run_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/gameframework/run_state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/Start.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/Start.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
